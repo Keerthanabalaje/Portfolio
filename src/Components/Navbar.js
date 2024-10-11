@@ -38,12 +38,12 @@ function Navbar() {
             <nav ref={navRef} className='Navbar__Items'>
                 <div onClick={() => { showNavbar(); document.getElementById('About').scrollIntoView() }}
                     className="Navbar__Link1"><p className="Navbar__LinkText">ABOUT</p></div>
-                <div onClick={() => { showNavbar(); document.getElementById('Project').scrollIntoView() }}
-                    className="Navbar__Link2"><p className="Navbar__LinkText">PROJECTS</p></div>
-                <div onClick={() => { showNavbar(); document.getElementById('Certification').scrollIntoView() }}
-                    className="Navbar__Link3"><p className="Navbar__LinkText">CERTIFICATIONS</p></div>
                 <div onClick={() => { showNavbar(); document.getElementById('Work').scrollIntoView() }}
                     className="Navbar__Link4"><p className="Navbar__LinkText">WORK</p></div>
+                <div onClick={() => { showNavbar(); document.getElementById('Certification').scrollIntoView() }}
+                    className="Navbar__Link3"><p className="Navbar__LinkText">CERTIFICATIONS</p></div>
+                <div onClick={() => { showNavbar(); document.getElementById('Project').scrollIntoView() }}
+                    className="Navbar__Link2"><p className="Navbar__LinkText">PROJECTS</p></div>
                 <div onClick={() => { showNavbar(); document.getElementById('Contact').scrollIntoView() }}
                     className="Navbar__Link5"><p className="Navbar__LinkText">CONTACT</p></div>
                 <button
