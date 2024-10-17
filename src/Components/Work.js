@@ -22,7 +22,7 @@ function Work() {
                     <h2 className='Work__Clg'>
                         <img className='Work__Logo' src={Infy} alt='' /> Infosys Limited
                     </h2>
-                    <p className='Work__Role'>Senior Systems Engineer</p>
+                    <p className='Work__Role'>Front end web developer</p>
                     <p className='Year2'>Oct 2021 - Present</p>
                 </div>
             </div>
