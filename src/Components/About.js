@@ -14,7 +14,7 @@ function About() {
         <div className='About' id='About'>
             <div className='About__Col1'>
                 <h1 className='About__Title'>About</h1>
-                <p>I'm a passionate <b>Front-End Developer</b> skilled at unlocking the full potential of web interfaces. Proficient in <b>ReactJS</b>, <b>JavaScript</b>, and a diverse range of front-end technologies. I excel at tranforming concepts into captivating user experiences, and I thrive on collaborative with cross-functional environments where creativity meets technology.</p>
+                <p>I'm a passionate <b>Front-End Developer</b> skilled at unlocking the full potential of web interfaces. Proficient in <b>ReactJS</b>, <b>JavaScript</b>, and a diverse range of front-end technologies. I excel at transforming concepts into captivating user experiences, and I thrive on collaborative with cross-functional environments where creativity meets technology.</p>
                 <p>My enthusiasm for <b>UX/UI Design</b> drives me to continually expand my knowledge, ensuring that I stay at the forefront of design and development trends</p>
             </div>
             <div className='About__Col2'>
